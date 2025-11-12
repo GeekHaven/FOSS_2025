@@ -10,7 +10,7 @@ Each subtask must be completed in a **separate branch**, and all your work must 
 
 ---
 
-## Subtask-1
+## 🧠 Subtask-1
 
 In the branch named **Subtask-1** create a folder with your rollnumber, for example:
 
@@ -30,7 +30,7 @@ You have to:
 
 ---
 
-## Subtask-2
+## 🔧 Subtask-2
 
 In the branch named **Subtask-2**, you will find a code file `Task 2/buggy_code.c`.
 
@@ -51,7 +51,7 @@ You have to:
 
 ---
 
-## Subtask-3
+## 😎 Subtask-3
 
 In the branch named **Subtask-3**, you have to:
 
