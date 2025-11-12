@@ -10,7 +10,7 @@ Each subtask must be completed in a **separate branch**, and all your work must 
 
 ---
 
-## 🧠 Subtask-1
+## Subtask-1
 
 In the branch named **Subtask-1** create a folder with your rollnumber, for example:
 
@@ -30,7 +30,7 @@ You have to:
 
 ---
 
-## 🔧 Subtask-2
+## Subtask-2
 
 In the branch named **Subtask-2**, you will find a code file `Task 2/buggy_code.c`.
 
@@ -51,7 +51,7 @@ You have to:
 
 ---
 
-## 😎 Subtask-3
+## Subtask-3
 
 In the branch named **Subtask-3**, you have to:
 
@@ -63,6 +63,7 @@ In the branch named **Subtask-3**, you have to:
   ```
 
 - Your meme should be **original, creative, and FOSS-themed!**
+- ~~The topic can be exempted if the meme is really good~~
 - Commit your meme file and **create a PR** to the main branch
 
 ---
@@ -73,12 +74,13 @@ In the branch named **Subtask-3**, you have to:
 - While performing these tasks, make sure to **resolve all merge conflicts** that arise.
 - Your final folder structure in the **main branch** should look like this:
 
-  ```
-  ├── IIT2024243/
-  │   ├── details.txt
-  │   ├── buggy_code.c
-  │   ├── foss_meme.png
-  ```
+```
+ Task 2
+    └── IIT2024243
+        ├── buggy_code.c
+        ├── details.txt
+        └── meme.png
+```
 
 - Only after **all three PRs are successfully merged**, your **Task 2** will be considered complete ✅.
 
