@@ -1,0 +1,2 @@
+ calc is a device used to calc eqns 
+ they are used for addition, subtaction, division, etc.
