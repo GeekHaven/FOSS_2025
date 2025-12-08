@@ -1,0 +1,1 @@
+calulator is a machine that performs mathematical operations.
