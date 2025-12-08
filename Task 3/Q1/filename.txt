@@ -1,0 +1,1 @@
+A calculator computes different arithmetic problems, like addition, substraction, multiplication, division, exponential, etc. It calculates the operations asked by the user. 
