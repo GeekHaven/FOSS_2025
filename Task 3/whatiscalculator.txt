@@ -1,0 +1,2 @@
+calculator is device used to run basic calculations like addition,subtraction,multiplication,division and other basic ones
+
